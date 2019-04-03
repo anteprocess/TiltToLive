@@ -1,0 +1,50 @@
+<resources>
+
+    <string name="app_name">Just a Survival game.</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="content_sendscore">Enter the above text fo proof that you are not a robot to send your current score to the leaderboard!</string>
+    <string name="title_sendscore">5963</string>
+    <string name="title_error">Error: Failed to send....</string>
+
+
+    <string name="title_dialog_desc">Welcome! Enter your username before starting this game! </string>
+    <string name="title_username">Welcome Guest!</string>
+
+
+    <string name="banner_ad_unit_id">ca-app-pub-1609131413855131~3631217203</string>
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General Settings</string>
+
+    <string name="pref_title_social_recommendations">Colorful UI for Gameplay</string>
+
+    <string name="pref_description_social_recommendations">
+        Do you want to use colorful UI instead of sepia ?
+    </string>
+
+    <string name="pref_difficulty_summary">
+        You can change the difficulty of the game
+    </string>
+    <!-- -->
+    <string name="pref_title_display_name">Player name</string>
+    <string name="pref_default_display_name">Guest</string>
+
+    <string name="pref_title_add_friends_to_messages">Game Difficulty</string>
+    <string-array name="pref_example_list_titles">
+        <item>Normal</item>
+        <item>Hard</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+    <string name="title_activity_score">ScoreActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+
+</resources>
